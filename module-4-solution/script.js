@@ -64,4 +64,4 @@ WARNING!!! WARNING!!!
     }
   }
 
-})(window);
+})();
